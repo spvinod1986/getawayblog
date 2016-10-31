@@ -10,9 +10,50 @@ body {
     padding: 0;
 }
 
-.bgimage {
+.bgimage1 {
     background-image: url('../images/photo1.jpg');
     background-size: 100% 100%;
-    height:400px;
+    height: 50vh;
 }
+.bgimage2 {
+    background-image: url('../images/photo2.jpg');
+    background-size: 100% 100%;
+    height: 50vh;
+}
+
+.bgimage3 {
+    background-image: url('../images/photo3.jpg');
+    background-size: 100% 100%;
+    height: 50vh;
+}
+
+.bgimage4 {
+    background-image: url('../images/photo4.jpg');
+    background-size: 100% 100%;
+    height: 50vh;
+}
+
+.bgimage5 {
+    background-image: url('../images/photo5.jpg');
+    background-size: 100% 100%;
+    height: 50vh;
+}
+
+.bgimage6 {
+    background-image: url('../images/photo6.jpg');
+    background-size: 100% 100%;
+    height: 50vh;
+}
+.bgimage7 {
+    background-image: url('../images/photo7.jpg');
+    background-size: 100% 100%;
+    height: 50vh;
+}
+
+.bgimage8 {
+    background-image: url('../images/photo8.jpg');
+    background-size: 100% 100%;
+    height: 50vh;
+}
+
 
